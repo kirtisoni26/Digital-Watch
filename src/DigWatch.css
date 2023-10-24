@@ -1,0 +1,24 @@
+ body{
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.GPgP2kBVLbju9gGRzAwrzAHaHa&pid=Api&P=0&h=180');
+     
+} 
+
+#stylee{
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(coral, teal);
+    position: relative;
+    margin: 100px 500px;
+}
+
+
+h1{ 
+    background-color:lightgrey; 
+    box-shadow: 5px 5px 3px 6px black;
+    color: black;
+    opacity: 0.6;
+    position: absolute;
+    padding: 10px;
+    top:40%;
+    left:20%;
+}
